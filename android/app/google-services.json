@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472049291665",
+    "project_id": "zfingo-1d15f",
+    "storage_bucket": "zfingo-1d15f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472049291665:android:f8d8341e2a55a563a04a30",
+        "android_client_info": {
+          "package_name": "com.zfingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt_WaTqWCV0v8W33NW80Ik78n1HKqOQn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
